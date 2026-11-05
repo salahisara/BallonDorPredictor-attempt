@@ -78,6 +78,7 @@ There are alot of Data entered into the excel file that I eventually chose not t
 The model has great trouble predicting the years where there was a World Cup, Euros, or Copa America. Otherwise it worked well on predicting the First place winner.
 -
 
+the pictures you see are the final results for the prediction of every year from 2018 to 2025. The year the is being predicted was omitted from the training data set to prevent data leakage: 
 <img width="1051" height="856" alt="Screenshot 2026-11-05 113346" src="https://github.com/user-attachments/assets/b513baa1-9ce9-4691-8f35-1f8016992c20" />
 <img width="1036" height="847" alt="Screenshot 2026-11-05 113837" src="https://github.com/user-attachments/assets/3d63f5ca-193e-44af-8498-47b939a6c024" />
 <img width="1024" height="847" alt="Screenshot 2026-11-05 113819" src="https://github.com/user-attachments/assets/7da2e4b7-1030-44b7-bf61-003194283b08" />
