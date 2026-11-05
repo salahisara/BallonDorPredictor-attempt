@@ -15,16 +15,27 @@ Rank: Their final Rank
 
 Players Club Data:
 UEFA_Club_coefficient: This is the coefficient given to every club each season. I found and entered it directly from the UEFA website over in UEFA.com
+
 League_finish: Their clubs final rank in their domestic league.
+
 Won_league: Whether they won the league(1) or didnt (0)
+
 UCL_result: The final position on UCL. I turned this data into a numerical data. Winners=1, Runnerup=2, Semifinal=4, Quarterfinal=8, Round of 16=16, League phase=32 and didnt participate=99.
+
 Won_UCL: Whether they won (1) or didnt (0)
+
 Appearances: How many times they played for the club that season including UCL and domestic League and Eueropa league if they had fallen there. (Eventually didnt use it.) (As written on Transfermarkt)
+
 Goals: The amount of goals they scored. (As written on Transfermarkt)
+
 Assists: The amount of assists.(As written on Transfermarkt)
+
 Is_Forward: If the players played as Forward (1) or not(0)
+
 Is_Club_Cap: If the players played as National team Captain (1) or not(0)
+
 Is_National_Cap: If the players played as Club team Captain (1) or not(0)
+
 For the last two, I only added (1) if they were the first Captain or the Captain for the majority of the games.
 
 National Team data:
@@ -54,7 +65,6 @@ The model has great trouble predicting the years where there was a World Cup, Eu
 
 And The years that had No CC or WC the model turned out pretty well:
 <img width="1073" height="850" alt="Screenshot 2026-11-05 113409" src="https://github.com/user-attachments/assets/7ceffd12-c391-4ac5-aa54-9cf5c23ad33f" />
-<img width="1001" height="594" alt="Screenshot 2026-11-05 113958" src="https://github.com/user-attachments/assets/69fc5f28-86f2-4776-91b3-21b17c601f2b" />
 <img width="1048" height="860" alt="Screenshot 2026-11-05 113759" src="https://github.com/user-attachments/assets/b41c8e0d-3ed5-4188-8fe3-d3b2b4169eb3" />
 <img width="1066" height="862" alt="Screenshot 2026-11-05 113930" src="https://github.com/user-attachments/assets/3cb8f15e-9c16-461e-914c-cc74deb5828b" />
 Which is Why I was hesitant to post it before the answers were anounces as I was certain Yamal was going to win it and there was some Huge problem that my model kept saying Harry Kane no matter what I changed. Eventually I gave up, and it turns out it wasnt all that wrong lol.
