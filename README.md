@@ -46,16 +46,16 @@ There are alot of Data entered into the excel file that I eventually chose not t
 
 The model has great trouble predicting the years where there was a World Cup, Euros, or Copa America. Otherwise it worked well on predicting the First place winner.
 
-<img width="1073" height="850" alt="Screenshot 2026-11-05 113409" src="https://github.com/user-attachments/assets/7ceffd12-c391-4ac5-aa54-9cf5c23ad33f" />
-<img width="1051" height="856" alt="Screenshot 2026-11-05 113346" src="https://github.com/user-attachments/assets/b513baa1-9ce9-4691-8f35-1f8016992c20" />
-<img width="1001" height="594" alt="Screenshot 2026-11-05 113958" src="https://github.com/user-attachments/assets/69fc5f28-86f2-4776-91b3-21b17c601f2b" />
 
+<img width="1051" height="856" alt="Screenshot 2026-11-05 113346" src="https://github.com/user-attachments/assets/b513baa1-9ce9-4691-8f35-1f8016992c20" />
 <img width="1036" height="847" alt="Screenshot 2026-11-05 113837" src="https://github.com/user-attachments/assets/3d63f5ca-193e-44af-8498-47b939a6c024" />
 <img width="1024" height="847" alt="Screenshot 2026-11-05 113819" src="https://github.com/user-attachments/assets/7da2e4b7-1030-44b7-bf61-003194283b08" />
-<img width="1048" height="860" alt="Screenshot 2026-11-05 113759" src="https://github.com/user-attachments/assets/b41c8e0d-3ed5-4188-8fe3-d3b2b4169eb3" />
-
-
 <img width="1083" height="849" alt="Screenshot 2026-11-05 113732" src="https://github.com/user-attachments/assets/8455a491-42de-4c5e-9da6-93e13ea515f3" />
+
+And The years that had No CC or WC the model turned out pretty well:
+<img width="1073" height="850" alt="Screenshot 2026-11-05 113409" src="https://github.com/user-attachments/assets/7ceffd12-c391-4ac5-aa54-9cf5c23ad33f" />
+<img width="1001" height="594" alt="Screenshot 2026-11-05 113958" src="https://github.com/user-attachments/assets/69fc5f28-86f2-4776-91b3-21b17c601f2b" />
+<img width="1048" height="860" alt="Screenshot 2026-11-05 113759" src="https://github.com/user-attachments/assets/b41c8e0d-3ed5-4188-8fe3-d3b2b4169eb3" />
 <img width="1066" height="862" alt="Screenshot 2026-11-05 113930" src="https://github.com/user-attachments/assets/3cb8f15e-9c16-461e-914c-cc74deb5828b" />
 Which is Why I was hesitant to post it before the answers were anounces as I was certain Yamal was going to win it and there was some Huge problem that my model kept saying Harry Kane no matter what I changed. Eventually I gave up, and it turns out it wasnt all that wrong lol.
 
